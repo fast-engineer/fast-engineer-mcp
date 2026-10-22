@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 — unreleased
+## 0.1.0 — 2026-10-22
 
 - First release: stdio MCP server forwarding tools and prompts to `https://fast.engineer/mcp`.
 - `login` / `logout` store a free key per user; `FAST_ENGINEER_API_KEY` and `--key` override it.
